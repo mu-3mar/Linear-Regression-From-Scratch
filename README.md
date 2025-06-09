@@ -4,7 +4,7 @@ Welcome to the **Linear Regression** project! This folder is a hands-on, beginne
 
 ## 📂 Folder Contents
 
-- **Linear Regression from scratch copy.py**
+- **Linear Regression from scratch.py**
   - A complete Python script that walks you through the entire linear regression workflow:
     - Data loading and preparation
     - Train/test splitting
@@ -33,7 +33,7 @@ Welcome to the **Linear Regression** project! This folder is a hands-on, beginne
 1. Make sure you have Python 3, numpy, pandas, matplotlib, and tabulate installed.
 2. Open a terminal in this folder and run:
    ```bash
-   python "Linear Regression from scratch copy.py"
+   python "Linear Regression from scratch.py"
    ```
 3. Check the console for a summary table of metrics and the final weights.
 4. Enjoy the automatic plots for cost and regression fit!

@@ -17,6 +17,11 @@ Welcome to the **Linear Regression** project! This folder is a hands-on, beginne
   - A real-world style dataset with two columns: features (e.g., study hours) and target (student marks). This is used to train and test the model.
 
 ---
+## Sample show what the output
+
+![Figure_1](https://github.com/user-attachments/assets/3ff75f50-31e3-43d5-b0ed-9001505aa2c1)
+![Figure_2](https://github.com/user-attachments/assets/62b774f4-3ae9-4ea2-8877-7af97d5033fe)
+![Screenshot from 2025-06-09 04-39-55](https://github.com/user-attachments/assets/2353e632-67d7-4ca7-adb5-6aca5319835b)
 
 ## 🚀 How It Works
 

@@ -19,11 +19,26 @@ Welcome to the **Linear Regression** project! This folder is a hands-on, beginne
 ---
 ## Sample show what the output
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3ff75f50-31e3-43d5-b0ed-9001505aa2c1" width="300"/>
-  <img src="https://github.com/user-attachments/assets/62b774f4-3ae9-4ea2-8877-7af97d5033fe" width="300"/>
-  <img src="https://github.com/user-attachments/assets/2353e632-67d7-4ca7-adb5-6aca5319835b" width="300"/>
-</p>
+<h2 align="center">📦 Figures Overview</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/3ff75f50-31e3-43d5-b0ed-9001505aa2c1" width="250"/><br/>
+        <sub><b>Figure 1</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/62b774f4-3ae9-4ea2-8877-7af97d5033fe" width="250"/><br/>
+        <sub><b>Figure 2</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/2353e632-67d7-4ca7-adb5-6aca5319835b" width="250"/><br/>
+        <sub><b>Model Output</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🚀 How It Works
 

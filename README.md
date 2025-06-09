@@ -19,7 +19,6 @@ Welcome to the **Linear Regression** project! This folder is a hands-on, beginne
 ---
 ## Sample show what the output
 
-<h2 align="center">📦 Figures Overview</h2>
 
 <div align="center">
   <table>
